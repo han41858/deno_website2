@@ -88,7 +88,7 @@ for await (const req of s) {
             {/*Deno is a simple, modern and secure runtime for JavaScript and*/}
             {/*TypeScript that uses V8 and is built in Rust.*/}
             Deno는 간결하고 안전하며 최신 기술을 활용하는 JavaScript, TypeScript 실행환경입니다.
-            V8 엔진과 Rust 빌드를 사용합니다.
+            V8 엔진과 Rust로 개발되었습니다.
           </p>
           <ol className="ml-8 list-disc text-gray-700">
             <li>
