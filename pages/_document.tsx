@@ -43,7 +43,7 @@ export default class DenoDocDocument extends Document {
              V8 엔진과 Rust로 개발되었습니다."
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta property="og:locale" content="en_US" />
+          <meta property="og:locale" content="ko_KR" />
           <meta property="og:site_name" content="DenoLand" />
           {/*<meta*/}
           {/*  property="og:title"*/}

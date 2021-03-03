@@ -1,5 +1,6 @@
 {
-  "title": "Deno 1.8 Release Notes",
+  "/title": "Deno 1.8 Release Notes",
+  "title": "Deno 1.8 릴리즈 노트",
   "author": "Bartek Iwańczuk, Luca Casonato, Ryan Dahl",
   "publish_date": "2021-03-02T15:00:00.000Z",
   "images": [
@@ -10,5 +11,6 @@
       "className": "hidden"
     }
   ],
-  "snippet": "Deno 1.8 adds experimental support for the WebGPU API, adds support for importing private modules, stabilizes import maps, revamps coverage tooling, adds ICU to provide internationalization out of the box, and a whole lot more."
+  "/snippet": "Deno 1.8 adds experimental support for the WebGPU API, adds support for importing private modules, stabilizes import maps, revamps coverage tooling, adds ICU to provide internationalization out of the box, and a whole lot more.",
+  "snippet": "Deno 1.8에는 WebGPU API 지원이 실험적으로 도입되었으며, 프라이빗 모듈을 로드할 수 있는 기능이 추가되었습니다. 그리고 import 맵이 확정되었으며 커버리지 툴이 크게 개선되었고, 다국어를 지원하기 위한 ICU 지원 등이 추가되었습니다."
 }
